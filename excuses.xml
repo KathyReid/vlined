@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<excuse>
+    <destination>Marshall</destination>
+    <line>Geelong</line>
+    <status>delayed for approximately 5 hours</status>
+    <text>because drop bears have attacked the train driver near Little River. Got to watch those drop bears!</text>
+</excuse>
+<excuse>
+    <destination>Southern Cross</destination>
+    <line>Geelong</line>
+    <status>delayed for what seems like an eternity</status>
+    <text>because drop bears have attacked the train driver near Little River. Got to watch those drop bears!</text>
+</excuse>
