@@ -25,32 +25,12 @@
   </head>
 
   <body>
-
     <div class="container">
-
-      <div class="masthead">
-        <h3 class="muted">V/Line random excuse generator</h3>
-        <div class="navbar">
-          <div class="navbar-inner">
-            <div class="container">
-              <ul class="nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Downloads</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-              </ul>
-            </div>
-          </div>
-        </div><!-- /.navbar -->
-      </div>
-
       <!-- Jumbotron -->
       <div class="jumbotron">
         <p class="lead">Your V/Line service is late today because</p>
-        <h1>Your V/Line service is late today because</h1>
-        <a class="btn btn-large btn-success" href="#">That doesn't sound convincing, try another excuse</a>
+        <h3>Your V/Line service is late today because</h3>
+        <a class="btn btn-large btn-success" href="index.html">That doesn't sound convincing, try another excuse</a>
       </div>
 
       <hr>
@@ -63,12 +43,19 @@
         </div>
         <div class="span4">
           <h2>Is this site official?</h2>
-          <p>No, it's a parody.  </p>
+          <p>No, it's a <a href="http://en.wikipedia.org/wiki/Parody">parody</a>.  </p>
           <p>You can <a href="mailto:compliment@vlined.net">compliment</a> or <a href="mailto:complain@vlined.net">complain</a> if you wish. </p>
        </div>
         <div class="span4">
-          <h2>Nice work. Can I reuse?</h2>
-          <p>Yes. This site uses free and open source technologies such as BootStrap. The code is also available on GitHub. </p>
+          <h2>Suggest an excuse</h2>
+                  <form class="excuseSuggestion">  
+            <label>My suggestion:</label>  
+            <input type="text" placeholder="Type something…">  
+            <span class="help-inline">Nothing suggestive please!</span>  
+            </label>  
+            <br>
+            <button type="submit" class="btn">Submit</button>  
+            </form> 
           <p><a class="btn" href="http://github.com/KathyReid/vlined">Fork on GitHub</a></p>
         </div>
       </div>
@@ -76,7 +63,8 @@
       <hr>
 
       <div class="footer">
-        <p>&copy; Company 2013</p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">vlined</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://blog.kathyreid.id.au" property="cc:attributionName" rel="cc:attributionURL">Kathy Reid</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
       </div>
 
     </div> <!-- /container -->
@@ -85,18 +73,6 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="bootstrap/js/jquery.js"></script>
-    <script src="bootstrap/js/bootstrap-transition.js"></script>
-    <script src="bootstrap/js/bootstrap-alert.js"></script>
-    <script src="bootstrap/js/bootstrap-modal.js"></script>
-    <script src="bootstrap/js/bootstrap-dropdown.js"></script>
-    <script src="bootstrap/js/bootstrap-scrollspy.js"></script>
-    <script src="bootstrap/js/bootstrap-tab.js"></script>
-    <script src="bootstrap/js/bootstrap-tooltip.js"></script>
-    <script src="bootstrap/js/bootstrap-popover.js"></script>
-    <script src="bootstrap/js/bootstrap-button.js"></script>
-    <script src="bootstrap/js/bootstrap-collapse.js"></script>
-    <script src="bootstrap/js/bootstrap-carousel.js"></script>
-    <script src="bootstrap/js/bootstrap-typeahead.js"></script>
 
   </body>
 </html>
