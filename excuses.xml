@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<excuses>
 <excuse>
     <destination>Marshall</destination>
     <line>Geelong</line>
@@ -9,5 +10,18 @@
     <destination>Southern Cross</destination>
     <line>Geelong</line>
     <status>delayed for what seems like an eternity</status>
-    <text>because drop bears have attacked the train driver near Little River. Got to watch those drop bears!</text>
+    <text>because those pesky signals at Newport are playing up again. You know, the ones that have been problematic for five years.</text>
 </excuse>
+<excuse>
+    <destination>Marshall</destination>
+    <line>Geelong</line>
+    <status>cancelled</status>
+    <text>because the conductor didn't get his donut this morning.</text>
+</excuse>
+<excuse>
+    <destination>Warrnambool</destination>
+    <line>Geelong</line>
+    <status>delayed </status>
+    <text>because it's hotter than 25 degrees, and the tracks aren't designed for Aussie summers. You know, where temperatures peak at 45 degrees...</text>
+</excuse>
+</excuses>
