@@ -24,4 +24,22 @@
     <status>delayed </status>
     <text>because it's hotter than 25 degrees, and the tracks aren't designed for Aussie summers. You know, where temperatures peak at 45 degrees...</text>
 </excuse>
+<excuse>
+    <destination>Southern Cross</destination>
+    <line>Ballarat</line>
+    <status>delayed for 30 minutes</status>
+    <text>because a heatwave has caused the conductor to take an extra stop at the Ballan station in order to run to the supermarket to get another bottle of water. Services on the train such as lighting will continue to operate as they will leave the keys in the train while gone.</text>
+</excuse>
+<excuse>
+    <destination>Kyneton</destination>
+    <line>Bendigo</line>
+    <status>delayed for a mathematically indefinite period</status>
+    <text>because timetables cannot be held as accurate during Dirac field type equivalence, Empty Eigenvector probability events and or strange entanglement. The next train to depart is the 9:ψλλ..ħ</text>
+</excuse>
+<excuse>
+    <destination>Bendigo</destination>
+    <line>Bendigo</line>
+    <status>replaced with road coaches</status>
+    <text>because we didn't order enough spare rolling stock to cover when engines and carriages needed repairs</text>
+</excuse>
 </excuses>
