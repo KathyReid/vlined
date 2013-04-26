@@ -42,4 +42,35 @@
     <status>replaced with road coaches</status>
     <text>because we didn't order enough spare rolling stock to cover when engines and carriages needed repairs</text>
 </excuse>
+<excuse>
+	<destination>Melton</destination>
+	<line>Bacchus Marsh</line>
+	<status>delayed until the train is feeling better</status>
+	<text>because the train went out last ight and got very drunk, and is now hung over</text>
+</excuse>
+<excuse>
+	<destination>Wendouree</destination>
+	<line>Ballarat<line>
+	<status>replaced by road coaches</status>
+	<text>because there are snails on the track ad we need to pop out to Bunnings to get some snail bait</text>
+</excuse>
+<excuse>
+	<destination>Malmsbury</destination>
+	<line>Bendigo</line>
+	<status>will be 30 minutes lates boarding</status>
+	<text>because we cannot remember where we left the carriages. They're around here somewhere!</text>
+</excuse>
+<excuse>
+	<destination>Sale</destination>
+	<line>Bairnsdale</line>
+	<status>delayed for much longer than we advertise</status>
+	<text>because an army of subversive beavers are building a dam. Across the tracks. In Australia. Where there are no beavers</text>
+</excuse>
+<excuse>
+	<destination>Southern Cross</destination>
+	<line>Geelong</line>
+	<status>held indefinitely at the station without air conditioning or lights</status>
+	<text>because the driver locked the keys to the cabin. Inside the cabin. </text>
+
+</excuse>
 </excuses>
