@@ -50,7 +50,7 @@
 </excuse>
 <excuse>
 	<destination>Wendouree</destination>
-	<line>Ballarat<line>
+	<line>Ballarat</line>
 	<status>replaced by road coaches</status>
 	<text>because there are snails on the track ad we need to pop out to Bunnings to get some snail bait</text>
 </excuse>
@@ -72,5 +72,17 @@
 	<status>held indefinitely at the station without air conditioning or lights</status>
 	<text>because the driver locked the keys to the cabin. Inside the cabin. </text>
 
+</excuse>
+<excuse>
+	<destination>Ballarat</destination>
+	<line>Ballarat</line>
+	<status>has been altered to stop at all stations</status>
+	<text>even though the passengers for these trains are waiting back at Souther Cross for the train we just cancelled</text>
+</excuse>
+<excuse>
+	<destination>Warragul</destination>
+	<line>Bairnsdale</line>
+	<status>has been delayed for at least 30 minutes</status>
+	<text>due to "livestock" on the tracks at South Yarra, under the Toorak Road bridge</text>
 </excuse>
 </excuses>
